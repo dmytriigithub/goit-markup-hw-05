@@ -517,6 +517,10 @@ main {
     color: #ffffff;
 }
 
+.subscribe-input::placeholder {
+    color: #ffffff;
+}
+
 .subscribe-btn {
     display: flex;
     justify-content: center;
@@ -542,8 +546,6 @@ main {
    margin-left: 16px;
    fill: #F4F4FD;
 }
-
-
 
 /* MODAL  */
 
