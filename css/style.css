@@ -714,8 +714,6 @@ main {
 }
 
 .modal-privacy-label {
-    display: flex;
-    align-items: center;
     margin-top: 8px;
     font-size: 12px;
     line-height: 117%;
